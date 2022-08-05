@@ -1,1 +1,12 @@
-# holder
+# Environment variable container
+- JSON snippets
+- Send request
+- Variable types
+- Variable scope
+- Variable action
+- Scenario loading parameters
+- Steps
+- Auto replacing variables
+- Events
+- SQL
+- Drivers
