@@ -1,4 +1,4 @@
-package tst
+package main
 
 func AbsInt(x int) int {
 	return absDiffInt(x, 0)

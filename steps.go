@@ -1,1 +1,1 @@
-package tst
+package main
